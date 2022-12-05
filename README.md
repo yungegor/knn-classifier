@@ -1,0 +1,1 @@
+This function implements k-Neighbors 2-categorial classifier in two variants: with or without weights. It uses Minkowski metric with arbitrary power parameter p. Under the hood it executes vector operations, instead of loops, which improves speed of the algorithm.
